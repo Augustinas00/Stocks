@@ -25,7 +25,7 @@ A Python-based tool to track real-time stock prices, display weekly trends, and 
 ## Installation
 
 - After cloning install dependancies: `pip install yfinance matplotlib newsapi-python textblob`
-- Run the script python: `stock_analyzer.py`
+- Run the script: `python stock_analyzer.py`
 
 ## Screenshots
 
